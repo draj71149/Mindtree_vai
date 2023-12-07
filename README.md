@@ -1,0 +1,2 @@
+# Mindtree_vai
+notes
